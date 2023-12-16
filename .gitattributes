@@ -1,3 +1,2 @@
-ScintillaSimpleIDE/IDE/tools/** linguist-vendored=true
-ScintillaSimpleIDE/IDE/tools/Include/** linguist-vendored=true
-*.H linguist-language=C++
+ScintillaSimpleIDE/IDE/tools/** linguist-vendored
+ScintillaSimpleIDE/IDE/tools/Include/** linguist-vendored
