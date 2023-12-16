@@ -1,4 +1,1 @@
-ScintillaSimpleIDE/IDE/tools/Include/*.H linguist-vendored=true
-ScintillaSimpleIDE/IDE/tools/Include/*.C linguist-vendored=true
-ScintillaSimpleIDE/IDE/tools/Include/*.h linguist-vendored=true
-ScintillaSimpleIDE/IDE/tools/Include/*.c linguist-vendored=true
+ScintillaSimpleIDE/IDE/tools/Include/* linguist-vendored=true
