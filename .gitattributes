@@ -1,2 +1,2 @@
-/ScintillaSimpleIDE/IDE/tools/*.C linguist-vendored
-/ScintillaSimpleIDE/IDE/tools/*.H linguist-vendored
+/ScintillaSimpleIDE/IDE/tools/Include/*.C linguist-vendored
+/ScintillaSimpleIDE/IDE/tools/Include/*.H linguist-vendored
